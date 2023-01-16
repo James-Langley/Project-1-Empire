@@ -1,0 +1,119 @@
+.container1{
+    background-color: black;
+    color: white; 
+    display: flex; 
+    padding: 2px; 
+    justify-content: space-around;
+}
+.logo{
+    width: 100px;
+    height: auto; 
+}
+
+.menu1{
+    display:flex; 
+    white-space: nowrap;
+}
+.menu2{
+    display:flex; 
+    white-space: nowrap;
+}
+.item1{
+    display: flex; 
+    width: auto;
+    justify-content: center; 
+    align-items: center;
+    color:aliceblue;
+    padding: 10px;
+}
+.item2{
+    display: flex; 
+    width: auto;
+    justify-content: center; 
+    align-items: center;
+    color:aliceblue;
+    padding: 10px;
+}
+.item3{
+    display: flex; 
+    width: auto;
+    justify-content: center; 
+    align-items: center;
+    color:aliceblue;
+    padding: 10px;
+}
+.item4{
+    display: flex; 
+    width: auto;
+    justify-content: center; 
+    align-items: center;
+    color:aliceblue;
+    padding: 10px;
+}
+.item5{
+    display: flex; 
+    width: auto;
+    justify-content: center; 
+    align-items: center;
+    color:aliceblue;
+    padding: 10px;
+}
+
+.item6{
+    display: flex; 
+    border-left: 10%;
+    width: auto;
+    justify-content: center; 
+    align-items: center;
+    color:aliceblue;
+    padding: 10px;
+} 
+.butt1{
+    border-radius: 5px;
+    color:white;
+    background-color:rgb(72, 87, 247);
+}
+a {
+    color: white;
+    text-decoration-line: none;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right:10%;
+    padding-top:10%;
+}
+.menu3{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    width: 10%;
+    height: auto;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+.text1{
+    font-size: 700%;
+    font-style: normal;
+    text-align: center;
+}
+.text2{
+    font-size: 350%;
+    font-style: normal;
+    text-align: center;
+}
+.item7{
+    display: flex;
+    justify-content: flex-end;
+}
+.item8{
+    padding: 10%;
+}
